@@ -1,1 +1,56 @@
+body {
+  margin: 0;
+  background-color: pink;
+  font-family: Calibri, sans-serif;
+  font-weight: 300;
+}
 
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.biz-logo {
+  float: left;
+}
+
+nav {
+  float: left ;
+}
+
+nav ul {
+  margin: ;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: red;
+  border-radius: 10%;
+  padding: 12.5px 12.5px 12.5px 12.5px;
+  margin: 55px
+}
+
+nav a:hover {
+	text-decoration: none;
+	font-family: Calibri, sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: strong;
+	text-transform: uppercase;
+	letter-spacing: normal;
+	line-height:
+	color: #red;
+}
+
+h1 {
+  background-color: red;
+}
